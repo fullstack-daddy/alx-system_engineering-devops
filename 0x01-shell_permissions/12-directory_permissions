@@ -1,0 +1,2 @@
+#!/bin/bash
+mkr -m 751 my_dir
